@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Tugas1_10119911</string>
+
+    <string name="header">DigiTeam</string>
+    <string name="subHeader1">Digital Together Everyone Achieve More</string>
+    <string name="subHeader2">Jabar Digital Service</string>
+    <string name="profile">Dias Eka Fredianto, S.Kom, B.IT</string>
+    <string name="profession">UI Designer</string>
+    <string name="title1">Jam Kerja Bulan Ini</string>
+    <string name="subTitle1">Jam kerja kamu bulan ini: 130.53 Jam</string>
+    <string name="time">130.53 JAM</string>
+    <string name="descTime">Batas Minimum Jam Kerja 170 jam/bulan</string>
+    <string name="check">Checking</string>
+    <string name="title2">Laporan Kamu</string>
+    <string name="add">Buat Laporan</string>
+
+</resources>
